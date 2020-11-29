@@ -1,0 +1,8 @@
+<resources>
+
+    <dimen name="textSize_small">18sp</dimen>
+    <dimen name="textSize_large">21sp</dimen>
+    <dimen name="textSize_margin">20dp</dimen>
+    <dimen name="padding_small">4sp</dimen>
+
+</resources>
