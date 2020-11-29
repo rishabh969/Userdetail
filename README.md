@@ -5,7 +5,7 @@
 
 ### Library reference resources:
 1. Kotlin-Coroutines
-
-## If this project helps you in anyway, show your love :heart: by putting a :star: on this project :v:
+2. RX 
+3. Paging 3
 
 
